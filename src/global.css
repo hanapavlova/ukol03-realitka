@@ -9,7 +9,10 @@ html {
 }
 
 .container {
-  max-width: 20rem;
+  max-width: 70rem;
   margin-right: auto;
   margin-left: auto;
+  background-color: rgb(255, 255, 222);
+  padding: 10px 40px;
 }
+

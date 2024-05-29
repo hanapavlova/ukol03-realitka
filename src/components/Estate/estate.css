@@ -1,0 +1,32 @@
+.inzerat {
+    color: #200700da;
+}
+
+.kontakt {
+    font-weight: bold;
+}
+
+.info {
+    border: 1px solid #2007002a;
+    border-radius: 10px;
+    max-width: 20rem;
+    padding-left: 20px;
+}
+
+.popis {
+    display: flex;
+}
+
+.detail {
+    width: 50%;
+    padding-left: 30px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.obrazek {
+    width: 50%;
+}

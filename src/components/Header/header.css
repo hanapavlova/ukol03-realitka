@@ -1,5 +1,16 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
 a {
     font-weight: 800;
-    color: rgb(78, 77, 77);
-    font-size: 44px;
+    color: beige;
+    font-size: 24px;
+    text-decoration: none;
+    background-color: #91bfec;
+    border: 3px solid beige;
+    padding: 10px 50px;
 }
